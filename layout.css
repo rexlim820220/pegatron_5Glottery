@@ -1,0 +1,12 @@
+.submit{
+  height : 150px;
+  width : 200px;
+  font-size : 60px;
+  border-radius: 10px;
+}
+
+div {
+  background-image: url("https://www.linkpicture.com/q/thumbnail_image002-1.png");
+  background-repeat: no-repeat, no-repeat;
+  color: white;
+}
